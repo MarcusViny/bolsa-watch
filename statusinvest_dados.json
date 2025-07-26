@@ -1,0 +1,129 @@
+{
+  "ranking_acoes": {
+    "cotacoes_hoje": {
+      "altas": [
+        {
+          "ticker": "VBBR3",
+          "empresa": "VIBRA ENERGIA S.A.",
+          "variacao": "3,10%",
+          "preco": "R$20,93"
+        },
+        {
+          "ticker": "UGPA3",
+          "empresa": "ULTRAPAR PARTICIPAÇÕES",
+          "variacao": "2,85%",
+          "preco": "R$16,61"
+        },
+        {
+          "ticker": "FLRY3",
+          "empresa": "FLEURY",
+          "variacao": "2,33%",
+          "preco": "R$14,48"
+        },
+        {
+          "ticker": "HAPV3",
+          "empresa": "HAPVIDA",
+          "variacao": "1,94%",
+          "preco": "R$32,56"
+        },
+        {
+          "ticker": "SUZB3",
+          "empresa": "SUZANO S.A.",
+          "variacao": "1,82%",
+          "preco": "R$52,51"
+        },
+        {
+          "ticker": "VAMO3",
+          "empresa": "VAMOS LOCAÇÃO DE CAMINHÕES. MÁQUINAS E EQUIP.",
+          "variacao": "1,79%",
+          "preco": "R$3,99"
+        }
+      ],
+      "baixas": [
+        {
+          "ticker": "YDUQ3",
+          "empresa": "YDUQS",
+          "variacao": "-5,69%",
+          "preco": "R$12,26"
+        },
+        {
+          "ticker": "NATU3",
+          "empresa": "NATURA COSMETICOS S.A.",
+          "variacao": "-3,28%",
+          "preco": "R$9,15"
+        },
+        {
+          "ticker": "LREN3",
+          "empresa": "LOJAS RENNER",
+          "variacao": "-2,52%",
+          "preco": "R$16,66"
+        },
+        {
+          "ticker": "MULT3",
+          "empresa": "MULTIPLAN",
+          "variacao": "-2,41%",
+          "preco": "R$25,12"
+        },
+        {
+          "ticker": "USIM5",
+          "empresa": "USIMINAS",
+          "variacao": "-2,11%",
+          "preco": "R$4,18"
+        },
+        {
+          "ticker": "CSNA3",
+          "empresa": "CSN",
+          "variacao": "-2,11%",
+          "preco": "R$8,36"
+        }
+      ],
+      "dividendos": [
+        {
+          "ticker": "ITUB4",
+          "empresa": "BANCO ITAU UNIBANCO",
+          "variacao": "R$0,0177",
+          "preco": ""
+        },
+        {
+          "ticker": "CXSE3",
+          "empresa": "CAIXA SEGURIDADE PARTICIPAÇÕES S.A.",
+          "variacao": "R$0,3100",
+          "preco": ""
+        },
+        {
+          "ticker": "BBDC3",
+          "empresa": "BRADESCO",
+          "variacao": "R$0,0172",
+          "preco": ""
+        },
+        {
+          "ticker": "BBDC4",
+          "empresa": "BRADESCO",
+          "variacao": "R$0,0190",
+          "preco": ""
+        },
+        {
+          "ticker": "ALOS3",
+          "empresa": "ALLOS",
+          "variacao": "R$0,1019",
+          "preco": ""
+        },
+        {
+          "ticker": "ITUB4",
+          "empresa": "BANCO ITAU UNIBANCO",
+          "variacao": "R$0,0177",
+          "preco": ""
+        }
+      ]
+    },
+    "ranking": {}
+  },
+  "ranking_fiis": {
+    "cotacoes_hoje": {},
+    "ranking": {}
+  },
+  "ranking_bdrs": {
+    "cotacoes_hoje": {},
+    "ranking": {}
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "cotacoes_hoje": {
+    "altas": [
+      {
+        "ticker": "HSLG11",
+        "empresa": "HSI LOGÍSTICA",
+        "variacao": "2,16%",
+        "preco": "R$82,29"
+      },
+      {
+        "ticker": "KIVO11",
+        "empresa": "KILIMA VOLKANO RECEBÍVEIS IMOB FDO DE INV IMOB",
+        "variacao": "2,16%",
+        "preco": "R$71,38"
+      },
+      {
+        "ticker": "RECR11",
+        "empresa": "FII REC Recebíveis Imobiliários",
+        "variacao": "1,83%",
+        "preco": "R$83,03"
+      },
+      {
+        "ticker": "SNCI11",
+        "empresa": "SUNO RECEBÍVEIS IMOBILIÁRIOS FDO DE INV IMOB",
+        "variacao": "1,63%",
+        "preco": "R$86,29"
+      },
+      {
+        "ticker": "KORE11",
+        "empresa": "KINEA OPORTUNIDADES REAL ESTATE FDO DE INV IMOB",
+        "variacao": "1,41%",
+        "preco": "R$71,90"
+      },
+      {
+        "ticker": "HGLG11",
+        "empresa": "CGHG Logística",
+        "variacao": "1,30%",
+        "preco": "R$156,30"
+      }
+    ],
+    "baixas": [
+      {
+        "ticker": "GZIT11",
+        "empresa": "GAZIT MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+        "variacao": "-2,48%",
+        "preco": "R$45,23"
+      },
+      {
+        "ticker": "BROF11",
+        "empresa": "BRPR CORPORATE OFFICES FDO DE INV IMOB",
+        "variacao": "-1,13%",
+        "preco": "R$52,72"
+      },
+      {
+        "ticker": "PVBI11",
+        "empresa": "FDO. INV. IMOB. VBI PRIME PROPERTIES",
+        "variacao": "-1,05%",
+        "preco": "R$73,40"
+      },
+      {
+        "ticker": "CPSH11",
+        "empresa": "SHOPPINGS AAA FDO DE INV IMOB",
+        "variacao": "-1,04%",
+        "preco": "R$9,52"
+      },
+      {
+        "ticker": "LIFE11",
+        "empresa": "LIFE CAPITAL PARTNERS FUNDO DE INVESTIMENTO IMOB",
+        "variacao": "-0,78%",
+        "preco": "R$8,87"
+      },
+      {
+        "ticker": "PATL11",
+        "empresa": "PÁTRIA LOGÍSTICA",
+        "variacao": "-0,71%",
+        "preco": "R$56,20"
+      }
+    ],
+    "dividendos": [
+      {
+        "ticker": "GZIT11",
+        "empresa": "GAZIT MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+        "variacao": "R$0,7800",
+        "preco": ""
+      },
+      {
+        "ticker": "WHGR11",
+        "empresa": "WHG REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+        "variacao": "R$0,0350",
+        "preco": ""
+      }
+    ]
+  },
+  "ranking_acoes": {}
+}
